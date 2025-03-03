@@ -2,6 +2,13 @@
 
 A simple productivity app built with Expo CLI and React Native that turns everyday tasks into a fun challenge. The app helps you stay focused—whether you’re studying, working out, or learning a new skill—by setting a timer for your session. When the timer ends, you’re rewarded with a celebratory pop-up (complete with confetti and a “dopamine reward”) to keep you motivated.
 
+## Demo Video
+
+
+https://github.com/user-attachments/assets/c509aeb3-458c-4d21-946c-a7256729634f
+
+
+
 ## Features
 
 - **Flexible Timer Options:**  
